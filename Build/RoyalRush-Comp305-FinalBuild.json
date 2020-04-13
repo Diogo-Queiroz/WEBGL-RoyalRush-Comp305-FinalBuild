@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shadows",
+"productVersion": "0.1",
+"dataUrl": "RoyalRush-Comp305-FinalBuild.data.unityweb",
+"wasmCodeUrl": "RoyalRush-Comp305-FinalBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "RoyalRush-Comp305-FinalBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
